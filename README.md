@@ -1,4 +1,5 @@
 <div align="center">
+Based on/forked from https://github.com/Cinnamon/kotaemon.git
 
 # kotaemon
 
